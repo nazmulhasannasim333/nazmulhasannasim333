@@ -14,7 +14,3 @@ Skills: <br /> ✅ JavaScript <br /> ✅React JS <br /> ✅Node JS<br /> ✅Expr
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nazmulhasannasim333&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nazmulhasannasim333)  
-
-
-
