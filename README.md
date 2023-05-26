@@ -12,10 +12,9 @@ I’m a Front End Web developer who is passionate about making 100% client satis
 - 🌱 I’m currently learning Next JS 
 - 💬 Ask me about Web development 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazmulhasannasim333&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nazmulhasannasim333)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nazmulhasannasim333/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/nazmulhasannasim333)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nazmulhasannasim333/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/NHnasim333)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nazmulhasannasim333&show_icons=true&theme=radical) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazmulhasannasim333)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nazmulhasannasim333&show_icons=true)  
+![GitHub metrics](https://metrics.lecoq.io/nazmulhasannasim333)  
 
