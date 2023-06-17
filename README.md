@@ -9,7 +9,7 @@ I’m a Front End Web developer who is passionate about making 100% client satis
 ✅Express JS <br />
 ✅ HTML5 / CSS3 / Bootstrap / Tailwind Css 
 
-- 🌱 I’m currently learning Next JS 
+- 🌱 I’m currently learning Next JS and Redux
 - 💬 Ask me about Web development 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazmulhasannasim333&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
