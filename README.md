@@ -4,12 +4,16 @@ I’m a Front End Web developer who is passionate about making 100% client satis
 
 ### Skills:
 ✅ JavaScript <br />
+✅ Typescript <br />
 ✅React JS <br />
+✅Next JS <br />
+✅Redux Toolkit <br />
 ✅Node JS <br />
 ✅Express JS <br />
+✅MongoDB JS <br />
 ✅ HTML5 / CSS3 / Bootstrap / Tailwind Css 
 
-- 🌱 I’m currently learning Next JS and Redux
+- 🌱 I’m currently learning Mongoose and Socket.io
 - 💬 Ask me about Web development 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazmulhasannasim333&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
