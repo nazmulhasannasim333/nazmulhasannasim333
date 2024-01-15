@@ -11,6 +11,7 @@ I’m a Full stack Web developer who is passionate about making 100% client sati
 ✅Node JS <br />
 ✅Express JS <br />
 ✅MongoDB <br />
+✅Mongoose <br />
 ✅ HTML5 / CSS3 / Bootstrap / Tailwind Css 
 
 - 🌱 I’m currently learning Mongoose and Socket.io
