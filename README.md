@@ -14,7 +14,7 @@ I’m a Full stack Web developer who is passionate about making 100% client sati
 ✅Mongoose <br />
 ✅ HTML5 / CSS3 / Bootstrap / Tailwind Css 
 
-- 🌱 I’m currently learning Mongoose and Socket.io
+- 🌱 I’m currently learning Prisma and PostgreSQL
 - 💬 Ask me about Web development 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazmulhasannasim333&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
