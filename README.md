@@ -14,6 +14,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazmulhasannasim333&theme=radical&hide_border=false" height="200px" />
 </div>
 
+# 📊 Competitive Programming Stats:
+<span>
+<a href="https://codeforces.com/profile/nasim333">
+<img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=nasim333&theme=radical&force_username=true&border_color=404040" alt="Nasim Codeforces Stats"/>
+</a>
+<a href="https://leetcode.com/u/nasim333/">
+<img height="316" src="https://leetcard.jacoblin.cool/nasim333?theme=radical&font=Fira%20Code&ext=contest" alt="Nasim Leetcode Stats"/>
+</a>
+</span>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
