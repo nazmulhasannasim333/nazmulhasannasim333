@@ -16,10 +16,10 @@
 
 # 📊 Competitive Programming Stats:
 <span>
-<a href="https://codeforces.com/profile/nasim333">
+<a href="https://codeforces.com/profile/nasim333" target="_blank">
 <img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=nasim333&theme=radical&disable_animations=false&show_icons=true&force_username=true" alt="Nasim Codeforces Stats"/>
 </a>
-<a href="https://leetcode.com/u/nasim333/">
+<a href="https://leetcode.com/u/nasim333" target="_blank">
 <img height="316" src="https://leetcard.jacoblin.cool/nasim333?theme=radical&font=Fira%20Code&ext=contest" alt="Nasim Leetcode Stats"/>
 </a>
 </span>
