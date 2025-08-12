@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on web development<br>👯 I’m looking to collaborate on software development related content<br>🌱 I’m currently learning Python<br>💬 Ask me about web development<br>⚡ Fun fact - I'm not perfect but honest
+🔭 I’m currently working on software development<br>👯 I’m looking to collaborate on software development related content<br>🌱 I’m currently learning Python<br>💬 Ask me about software development<br>⚡ Fun fact - I'm not perfect but honest
 
 
 ## 🌐 Socials:
